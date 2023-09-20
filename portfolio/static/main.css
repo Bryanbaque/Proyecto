@@ -1,4 +1,4 @@
-body {
+body{
     background: #090909;
 }
 
@@ -6,7 +6,7 @@ body {
     background: #000;
 }
 
-.card-project:hover {
+.card-project:hover{
     border: 1px solid #fff;
     cursor: pointer;
 }
